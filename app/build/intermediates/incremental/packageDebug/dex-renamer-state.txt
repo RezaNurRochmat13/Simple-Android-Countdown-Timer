@@ -1,0 +1,4 @@
+#Thu May 04 12:26:43 ICT 2017
+base.0=G\:\\Work\\AndroidTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\Work\\AndroidTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
